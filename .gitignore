@@ -1,0 +1,4 @@
+node_modules/**
+outDir/**
+package-lock.json
+
